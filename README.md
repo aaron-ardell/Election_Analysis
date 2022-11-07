@@ -15,17 +15,28 @@ A Colorado Board of Elections employee hgas given you the following tasks to com
 
 ## Summary
 The analysis of the election show that:
+
 -There were "x" votes cast in the election.
+
 -The candidates were:
-  -Candidate 1
-  -Candidate 2
-  -Candidate 3
+
+-Candidate 1
+
+-Candidate 2
+
+-Candidate 3
+
 -The candidate results weere:
-  -Candidate 1 received "x%" of the vote and "y" number of votes.
-  -Candidate 2 received "x%" of the vote and "y" number of votes.
-  -Candidate 3 received "x%" of the vote and "y" number of votes.
+
+-Candidate 1 received "x%" of the vote and "y" number of votes.
+
+-Candidate 2 received "x%" of the vote and "y" number of votes.
+
+-Candidate 3 received "x%" of the vote and "y" number of votes.
+
 -The winner of the election was:
-  -Candidate (1, 2, or 3), who received "x%" of the vote and "Y" number of votes.
+
+-Candidate (1, 2, or 3), who received "x%" of the vote and "Y" number of votes.
   
 ## Challenge Overview
 
